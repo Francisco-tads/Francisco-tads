@@ -20,16 +20,16 @@ Primeiramente, fico muito feliz que você tenha chegado até aqui e, já que voc
 </div>
 
   <h1 align="center">Redes Sociais</h1>
-    <a target="_blank" href = "francisco.vieiratads@gmail.com">
+    <a target="_blank" href  = "mailto: https://francisco.vieiratads@gmail.com">
       <img width="25" src="gm.png">
     </a>
-    <a target="_blank" href =  "mailto: https://www.linkedin.com/in/francisco-vieiratads/">
+    <a target="_blank" href ="mailto: https://www.linkedin.com/in/francisco-vieiratads/">
       <img width="25" src="linkedin-logo-1.png">
     </a>
-    <a target="_blank" href = "https://api.whatsapp.com/send?phone=5511986675897">
+    <a target="_blank" href = "mailto: https://api.whatsapp.com/send?phone=5511986675897">
       <img width="25" src="whatsapp.png">
     </a>
-    <a target="_blank" href = "https://francisco-tads.herokuapp.com/">
+    <a target="_blank" href = "mailto: https://francisco-tads.herokuapp.com/">
       <img width="25" src="asset-15.png">
     </a></div>
     </div>
