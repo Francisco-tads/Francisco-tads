@@ -31,3 +31,12 @@ Primeiramente, fico muito feliz que você tenha chegado até aqui e, já que voc
 Apaixonado por tecnologia, a educação pode mudar a vida das pessoas através da programação.
 ##
 ![Snake animation](https://github.com/Francisco-tads/Francisco-tads/blob/output/github-contribution-grid-snake.svg)
+     
+  ![Contribution](https://activity-graph.herokuapp.com/graph?username=francisco-tads&theme=gotham&hide_border=true&area=true)
+
+<div align="center">
+  <br><p><b>Visitors Count</b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{francisco-tads}/count.svg" /></p> 
+<br></div>
+  
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=202736&height=160&section=footer&text=Thank+you+for+visiting+me!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=80"/>
