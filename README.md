@@ -11,7 +11,7 @@ Primeiramente, fico muito feliz que você tenha chegado até aqui e, já que voc
 
 <div align="center"> 
 <div style="display: inline_block"><br>
-<img align="left" height="270em" alt="coding-time" src="code.gif">
+<img align="left" height="250em" alt="coding-time" src="code.gif">
 <h1 align="center">Tecnologias que eu uso no meu dia.</h1>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -23,7 +23,7 @@ Primeiramente, fico muito feliz que você tenha chegado até aqui e, já que voc
 
 ## Redes Sociais
 
-[<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /> ](https://francisco-tads.herokuapp.com/)
+[<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /> ](https://meu-portfolio-weld.vercel.app/)
 [ <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> ](mailto:francisco.contatoportfolio@gmail.com)
 [ <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />](https://api.whatsapp.com/send?phone=5511986675897)
 [ <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/francisco.vieiratads/)
